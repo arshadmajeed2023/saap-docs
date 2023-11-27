@@ -1,4 +1,4 @@
-# Add External Secret
+# Add Repository Secret
 
 Let's add the External Secret CR for the secret that we just stored in Vault. This will allow us to fetch the secret from Vault and distribute it to the build namespace of our tenant.
 
